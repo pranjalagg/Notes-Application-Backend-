@@ -6,11 +6,11 @@
 - Install all the required packages using `npm install`
 
 ### Commands
-- add: Adds a new note (title and body required)
+- add: Adds a new note (title and body required)  
 `node app.js add --title="Check" --body="Is everything working fine?"`
-- rem: Removes an existiong note (title required)
+- rem: Removes an existiong note (title required)  
 `node app.js rem --title="Check"`
-- list: List out all the notes
+- list: List out all the notes  
 `node app.js list`
-- read: Read a spicific note (title required)
+- read: Read a spicific note (title required)  
 `node app.js read --title="Check"`
